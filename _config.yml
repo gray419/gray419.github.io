@@ -1,0 +1,18 @@
+# Jekyll Resume Theme
+
+# Site settings
+title: Robert Gray
+email: email@domain.com
+description: Jekyll Resume is a mega simple resume theme for Jekyll.
+baseurl: 
+url: 
+name: Robert Gray
+job: software engineer
+location: New York, NY
+languages: Kotlin, Swift, Android, iOS
+twitter_username: robgray_
+github_username:  gray419
+linkedin_username: robertcgray419
+
+# Build settings
+markdown: kramdown
